@@ -15,6 +15,12 @@
 	  "email": "YOUR EMAIL ADDRESS HERE",
 	  "discord": "YOUR DISCORD USERNAME HERE"
     }
+	  {
+      "name": "Kleyver Calle Bello",
+      "url": "YOUR WEBSITE ADDRESS HERE",
+	  "email": "kcallebello@gmail.com",
+	  "discord": "KLASE#6500"
+    }
   ],
   "scripts": [
     "scripts/system-script-1.js",
